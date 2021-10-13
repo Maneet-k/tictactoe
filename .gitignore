@@ -1,0 +1,4 @@
+/node_modules
+npm-delay.log
+.DS_Store
+/*.env
